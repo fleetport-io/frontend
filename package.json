@@ -34,7 +34,7 @@
     "highcharts": "^7.2.0",
     "highcharts-vue": "^1.3.5",
     "less": "^3.10.3",
-    "npm": "^6.11.3",
+    "npm": "^6.14.6",
     "particles.js": "^2.0.0",
     "vue": "^2.6.10",
     "vue-airbnb-style-datepicker": "^1.11.4",
